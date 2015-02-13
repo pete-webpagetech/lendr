@@ -5,3 +5,4 @@ This repository is for the Joomla! 3 Component Tutorial Series. This series foll
 
 View the details and corresponding tutorials at http://lendr.sparkbuilt.com. Each tutorial step will contain a link to the associated version release (tag) within Github. The main download located at the top of the tutorial site will download the most recent code.
 
+  * [Tutorial Link](http://lendr.websparkinc.com/)
